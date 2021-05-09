@@ -15,6 +15,8 @@ illustrates the issues that may arise during PHP file upload.
 The code serves educational purposes and is not intended for
 direct use.
 
+## License
+
 This program is free software; you can redistribute it and/or
 modify it under the terms of version 3 of the GNU Lesser General
 Public License (LGPL) as published by the Free Software Foundation.
