@@ -19,13 +19,22 @@ This program is free software; you can redistribute it and/or
 modify it under the terms of version 3 of the GNU Lesser General
 Public License (LGPL) as published by the Free Software Foundation.
 
+his program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program; if not, write to the Free Software Foundation,
+Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
 ## Usage
 
 Go to the directory with the `upload.php` and `index.html` and run:
 
 ```
-php -S 127.0.0.0:8080
+php -S 127.0.0.1:8080
 ```
 
-Then open http://127.0.0.0:8080/ in your web browser.
+Then open http://127.0.0.1:8080/ in your web browser.
 
